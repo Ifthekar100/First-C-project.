@@ -1,0 +1,8 @@
+
+jewel 1234 6:40a.m. BaroyarHat. City To University 1 1 1 1
+jewel 1234 6:40a.m. BaroyarHat. City To University 2 1 1 1
+jewel 1234 6:40a.m. BaroyarHat. City To University 1 32 1 2
+jewel 1234 6:40a.m. BaroyarHat. University To City 5 12 2 1
+jewel 1234 6:40a.m. BaroyarHat. City To University 1 2 1 1
+jewel 1234 6:40a.m. BaroyarHat. City To University 5 32 1 1
+jewel 1234 6:45a.m. HathazariCollege. City To University 3 1 1 2
